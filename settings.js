@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "254702351657",
+  SUDO_NUMBERS : "254714184152,254754677690",
+  OWNER_NAME: "『 Alviin21💀💀 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Africa/Nairobi",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
@@ -53,7 +53,7 @@ module.exports = {
      STATUS : false,
   },
   BOT_OFFLINE : false,
-  INBOX_BLOCK : false,
+  INBOX_BLOCK : true,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
